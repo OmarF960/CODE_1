@@ -1,2 +1,2 @@
 # CODE_1
-Vista: https://github.com/OmarF960/CODE_1.git
+Vista:https://omarf960.github.io/CODE_1/
